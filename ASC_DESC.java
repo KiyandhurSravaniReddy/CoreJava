@@ -5,7 +5,7 @@ import java.util.TreeSet;
 public class ASC_DESC {
 
 	public static void main(String[] args) {
-		TreeSet <Integer> ts=new TreeSet<>();
+		TreeSet <Integer> ts=new TreeSet<Integer>();
 //		ts.add(10);
 //		ts.add(39);
 //		ts.add(65);
